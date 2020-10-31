@@ -3,7 +3,10 @@ ass idris1983
 
 
               public static void main(string{} args){
-                 system.out.println("This is first program hre");
+              system.out.println("This is first program hre");
+             system.out.println("second line now added to the program");
 }
+
+
 
 
